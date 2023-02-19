@@ -58,7 +58,7 @@ Create Events:
 ## Step 3:
 Other Methods:
 
-### Manual Disconect frome scale
+### Manual Disconnect frome scale
 
 PosScale.DisconnectFromScale();
 
